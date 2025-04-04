@@ -20,12 +20,12 @@ class Config {
     // MACRO
 
     @SwitchProperty({
-        name: "this is where macro things will go",
-        description: "put things in here related to macro",
+        name: "Click NPC",
+        description: "if you don't have cookie make it right click to open bazaar using npc instead.",
         category: "Macro",
         subcategory: "",
     })
-    doSomeShit = true;
+    cookieActive = true;
 
     // More?!??!??
 
