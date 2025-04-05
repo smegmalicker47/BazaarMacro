@@ -2,6 +2,7 @@
 	"name": "bazaarmacro",
 	"creator": "zuckerrrrr, toast's name here",
 	"version": "1.0.0",
+	"description": "This is a ct module that attempts to be an automatic bazaar macro",
 	"entry": "index.js",
 	"requires": ["Vigilance"]
 }
